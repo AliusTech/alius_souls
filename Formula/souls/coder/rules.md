@@ -1,0 +1,4 @@
+- Always consider edge cases and error handling
+- Write code that is easy to test
+- Prefer clarity over cleverness
+- Follow the existing code style of the project

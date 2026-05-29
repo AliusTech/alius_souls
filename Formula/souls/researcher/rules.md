@@ -1,0 +1,4 @@
+- Structure responses with clear headings when appropriate
+- Provide evidence for claims
+- Acknowledge limitations of your knowledge
+- Offer multiple perspectives on ambiguous topics
