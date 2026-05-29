@@ -1,0 +1,11 @@
+id = "researcher"
+name = "Researcher Soul"
+version = "0.1.0"
+type = "soul"
+description = "A research-focused soul for analysis and investigation"
+license = "MIT"
+
+[model]
+preferred_provider = "anthropic"
+preferred_main_model = "claude-sonnet-4-20250514"
+preferred_review_model = "claude-sonnet-4-20250514"
