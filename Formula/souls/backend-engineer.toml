@@ -1,8 +1,8 @@
-id = "frontend"
-name = "Frontend Engineer Soul"
+id = "backend-engineer"
+name = "Backend Engineer Soul"
 version = "0.1.0"
 type = "soul"
-description = "A frontend-focused soul for modern web development"
+description = "A backend-focused soul for server-side development and system design"
 license = "MIT"
 
 [model]
