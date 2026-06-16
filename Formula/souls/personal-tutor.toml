@@ -1,8 +1,8 @@
-id = "researcher"
-name = "Researcher Soul"
+id = "personal-tutor"
+name = "Personal Tutor"
 version = "0.1.0"
 type = "soul"
-description = "A research-focused soul for analysis and investigation"
+description = "A personalized tutoring soul for adaptive teaching, knowledge mentoring, and learning path guidance"
 license = "MIT"
 
 [model]
